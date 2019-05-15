@@ -2,6 +2,7 @@
 // This file is modified from  https://github.com/pytorch/pytorch/blob/master/modules/detectron/sigmoid_focal_loss_op.cu
 // Cheng-Yang Fu
 // cyfu@cs.unc.edu
+
 #include <ATen/ATen.h>
 #include <ATen/cuda/CUDAContext.h>
 
